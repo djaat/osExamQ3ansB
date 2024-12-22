@@ -1,0 +1,7 @@
+git --version
+git init
+git status
+git add .
+git commit -m "question 3 answer b done success also attached a js file of ques 3 a in this repo is public can visit on djatt/osExamQ3ansB"
+git remote add origin https://github.com/djaat/osExamQ3ansB.git
+git push origin master
